@@ -1,6 +1,6 @@
 <template>
     <div>
-
+        <AppHero />
         <h2>La mia prima app con Vite!</h2>
     </div>
 </template>
