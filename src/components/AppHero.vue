@@ -1,15 +1,12 @@
 <template>
     <div>
-
-        <h2>La mia prima app con Vite!</h2>
+        <img src="/img/ita.png" alt="">
     </div>
 </template>
 
 <script>
-
-
 export default {
-    name: "AppTitle",
+    name: 'AppHero',
 
 }
 </script>
